@@ -1,0 +1,29 @@
+
+.A{
+    text-align: center;
+}
+
+.B{
+    text-align: center;
+    color: #555;
+}
+
+.cola{
+    width: 50%;
+    float: left;
+    text-align: center;
+    color:black;
+}
+.hr{
+    color: blue;
+    font-size: large;
+}
+.cola p{
+    font-size: small;
+}
+.fog{
+ font-size: small;
+}
+.body {
+    font-family: sans-serif;
+}

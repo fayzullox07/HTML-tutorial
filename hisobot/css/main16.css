@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(132, 230, 255);
+}
+
+.h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.div{
+    margin-left: 245px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.849);
+    border-radius: 2%;
+    width: 800px ;
+    height:720px ;
+
+}
+
+.p{
+    text-align: center;
+    font-size: 25px;
+}
+
+.label{
+    color: black;
+    font-size: 15px;
+
+}
+
+#input{
+    margin-left: 30px;
+    width: 290px;
+    height: 30px;
+    border-radius: 10px;
+    border-color:orange ;
+}
+
+
+#number{
+    margin-left: 30px;
+    border-radius: 10px;
+    border-color:orange ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
